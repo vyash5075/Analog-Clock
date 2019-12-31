@@ -1,6 +1,6 @@
 # Analog-Clock Created
 ## **Technologies Used:-**
-* HTMl
+* HTML
 * CSS
 * Javascript
 ### [**Deployed Here**](https://vyash5075.github.io/Analog-Clock)
